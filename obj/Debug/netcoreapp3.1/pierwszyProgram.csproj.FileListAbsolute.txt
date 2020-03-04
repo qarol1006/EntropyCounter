@@ -1,0 +1,11 @@
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\bin\Debug\netcoreapp3.1\pierwszyProgram.exe
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\bin\Debug\netcoreapp3.1\pierwszyProgram.deps.json
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\bin\Debug\netcoreapp3.1\pierwszyProgram.runtimeconfig.json
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\bin\Debug\netcoreapp3.1\pierwszyProgram.runtimeconfig.dev.json
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\bin\Debug\netcoreapp3.1\pierwszyProgram.dll
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\bin\Debug\netcoreapp3.1\pierwszyProgram.pdb
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\obj\Debug\netcoreapp3.1\pierwszyProgram.csprojAssemblyReference.cache
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\obj\Debug\netcoreapp3.1\pierwszyProgram.AssemblyInfoInputs.cache
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\obj\Debug\netcoreapp3.1\pierwszyProgram.AssemblyInfo.cs
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\obj\Debug\netcoreapp3.1\pierwszyProgram.dll
+D:\Programowanie\Projekty\Visual Studio\C#\pierwszyProgram\pierwszyProgram\obj\Debug\netcoreapp3.1\pierwszyProgram.pdb
